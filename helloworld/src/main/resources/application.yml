@@ -1,3 +1,6 @@
 micronaut:
   application:
     name: helloworld
+grpc:
+  server:
+    port: 8080
